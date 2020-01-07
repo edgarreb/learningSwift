@@ -1,0 +1,31 @@
+Data Types: 
+
+Data types in swift do not have to be explicitly stated; swift will define the variable type for us based on the value that we assign to that variable. 
+
+- Defining a variable: 
+	to define a variable in the swift language we have to use the var keyword
+	
+	var <variableName> 
+	var myVariable = 100
+
+in the example above swift will assume myVariable to be of data type Int (since we assigned the value of 100 to myVariable). 
+
+- Explicitly defining a varibale:
+
+	var <variableName> : <varibaleType>
+	var myVariable : Int = 100
+
+- Common data types: 
+	String 
+	Int 
+	Float
+	Double 
+	Bool 
+
+
+	
+
+
+If statement: 
+
+
